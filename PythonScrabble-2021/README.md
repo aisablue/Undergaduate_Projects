@@ -77,4 +77,6 @@ If `data.json` does not exist, it is **created automatically**.
 ## How to Run
 
 Make sure the following files are in the *same folder*:
-
+main14869.py
+classes.py
+greek7.txt
