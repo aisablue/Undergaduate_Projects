@@ -1,7 +1,7 @@
 # Scrabble 2021 (Greek Edition)
 
 A text-based version of the classic **Scrabble** game written in Python.  
-Developed by **A. Iliopoulou (A.E.M. 14869)** as part of a university project.
+Developed by **Anastasia Iliopoulou** as part of a university project.
 
 ---
 
