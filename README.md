@@ -1,2 +1,2 @@
 # Undergaduate_Projects
-Selected projects from my undergraduate stadies (2017 - 2022).
+Selected projects from my undergraduate studies (2017 - 2022).
